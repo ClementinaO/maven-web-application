@@ -140,7 +140,7 @@
 				<version>2.9</version>
 				<configuration>
 					<downloadSources>true</downloadSources>
-					<downloadJavadocs>true</downloadJavadocs>
+					<downloadJavadocs>true</downloadJavadocs> 
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
